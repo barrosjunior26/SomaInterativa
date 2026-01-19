@@ -1,0 +1,2 @@
+**📌 Descrição do Projeto**
+Este programa em C# solicita ao usuário a quantidade de valores que deseja somar, lê os valores informados via console, realiza a soma e exibe o resultado final arredondado para duas casas decimais. O código utiliza tratamento seguro de entrada com  para evitar exceções e organiza a lógica de soma em um método separado, promovendo clareza e reutilização.

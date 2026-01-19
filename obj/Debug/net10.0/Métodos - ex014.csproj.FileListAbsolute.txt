@@ -1,0 +1,14 @@
+C:\Curso C#\Métodos - ex014\obj\Debug\net10.0\Métodos - ex014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso C#\Métodos - ex014\obj\Debug\net10.0\Métodos - ex014.AssemblyInfoInputs.cache
+C:\Curso C#\Métodos - ex014\obj\Debug\net10.0\Métodos - ex014.AssemblyInfo.cs
+C:\Curso C#\Métodos - ex014\obj\Debug\net10.0\Métodos - ex014.csproj.CoreCompileInputs.cache
+C:\Curso C#\Métodos - ex014\bin\Debug\net10.0\Métodos - ex014.exe
+C:\Curso C#\Métodos - ex014\bin\Debug\net10.0\Métodos - ex014.deps.json
+C:\Curso C#\Métodos - ex014\bin\Debug\net10.0\Métodos - ex014.runtimeconfig.json
+C:\Curso C#\Métodos - ex014\bin\Debug\net10.0\Métodos - ex014.dll
+C:\Curso C#\Métodos - ex014\bin\Debug\net10.0\Métodos - ex014.pdb
+C:\Curso C#\Métodos - ex014\obj\Debug\net10.0\Métodos - ex014.dll
+C:\Curso C#\Métodos - ex014\obj\Debug\net10.0\refint\Métodos - ex014.dll
+C:\Curso C#\Métodos - ex014\obj\Debug\net10.0\Métodos - ex014.pdb
+C:\Curso C#\Métodos - ex014\obj\Debug\net10.0\Métodos - ex014.genruntimeconfig.cache
+C:\Curso C#\Métodos - ex014\obj\Debug\net10.0\ref\Métodos - ex014.dll
